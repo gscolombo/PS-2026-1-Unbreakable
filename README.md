@@ -1,5 +1,8 @@
 # UnBreakable, Processo Seletivo 2026.1
 
+<img width="1000" height="1067" alt="unbreakablelogo" src="https://github.com/user-attachments/assets/3030cb10-66c3-4788-8489-d68468b6e6c2" />
+
+
 Repositório oficial do processo seletivo do **Grupo de Segurança (CTF/Hacking** da UnB.
 
 ---
